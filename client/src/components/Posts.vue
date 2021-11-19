@@ -48,7 +48,7 @@ export default {
     },
     async deletePost (id) {
       await PostsService.deletePost(id)
-      this.$router.push({ name: 'Posts' })
+      this.$router.push('/')
     }
   }
 }
