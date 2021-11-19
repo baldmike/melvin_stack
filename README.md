@@ -19,7 +19,7 @@ cd into server
 
 `npm run start`
 
-cd into client
+open a new terminal, cd into client
 
 `npm install`
 
