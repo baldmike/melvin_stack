@@ -4,9 +4,9 @@
     <h2>Click below, an example of Vue Router</h2>
 
     <div>
-      <router-link v-bind:to="{ name: 'Posts' }" class="">Posts</router-link>
+      <router-link :to="{ name: 'Posts' }" class="">Posts</router-link>
     </div>
-    
+
   </div>
 </template>
 
