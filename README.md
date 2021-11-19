@@ -24,3 +24,5 @@ cd into client
 `npm install`
 
 `npm run start`
+
+Navigate to localhost:8080
