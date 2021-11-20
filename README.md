@@ -3,7 +3,7 @@ MELViN stack - MongoDB, Express, Vue.js, Node.JS  ---  The L stands for "love".
 
 cd into project...
 
-You'll need MondoDB running. I recommend using Homebrew:
+You'll need MongoDB running. I recommend using Homebrew:
 
 `brew tap mongodb/brew`
 
